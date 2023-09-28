@@ -14,22 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!----------------------------------- Banner - GeekyShows ------------------------------------>
-[![MasterHead](https://raw.githubusercontent.com/geekyshow1/geekyshow1/main/gbann.png)](#)
 
-<!----------------------------------- About Section ------------------------------------>
-<div>
-  <img align="right" width="150" alt="Coding" src="https://raw.githubusercontent.com/geekyshow1/geekyshow1/main/rajp.png">
-  <a href="https://github.com/geekyshow1?tab=followers">
-     <img align="right" src="https://img.shields.io/github/followers/geekyshow1?label=Followers&style=social" alt="followers-count">
-  </a>
-  <h3>Hi, I'm Rajesh Kumar</h3>
-  <p>I am Full Stack Web and Android App Developer. I am also an Educator. I teach on
-    <a href="https://www.youtube.com/user/GeekyShow1">
-        <img align="center" src="https://img.shields.io/badge/GeekyShows Youtube Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/user/GeekyShow1" />
-    </a> having 400k+ Subscribers.
-  </P> 
-</div>
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
 <h2>Tech Stack</h2>
@@ -95,20 +80,4 @@ Here are some ideas to get you started:
   <a href="https://www.therajeshkumar.com" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_p-512.png" alt="portfolio" height="30" width="30" /></a>
 </p>
 
-<!----------------------------------- GitHub Stats Section ------------------------------------>
-<h2><i>My GitHub Stats</i></h2>
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=geekyshow1&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="geekyshow1" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekyshow1&layout=compact&border_radius=0&theme=dark" alt="geekyshow1" height="139" />
-</p>
 
-<!----------------------------------- Profile View Section ------------------------------------>
-
-<p align="left">
-    <a href="https://github.com/geekyshow1">
-        <img src="https://komarev.com/ghpvc/?username=geekyshow1&label=Profile%20views&color=0e75b6&style=flat" alt="geekyshow1" />
-    </a>
-    <a href="https://github.com/geekyshow1?tab=followers">
-        <img src="https://img.shields.io/github/followers/geekyshow1?label=Followers&style=social" alt="followers-count">
-    </a>
-</p>
